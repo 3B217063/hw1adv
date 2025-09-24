@@ -1,4 +1,5 @@
-一般版本：[hw1]([https://github.com/username/AwesomeProject](https://github.com/3B217063/hw1))  
+一般版本：[hw1](https://github.com/3B217063/hw1)  
+
 相比一般版本多了更多種格式，且會自動尋找系統裡的Downloads資料夾:
 ```
 Images      : jpg, jpeg, png, gif, bmp, tiff, heic  
